@@ -7,3 +7,6 @@ print(factorial(5))
 
 def fibonacci(n):
   pass
+
+def tree_traverse(n):
+  pass
